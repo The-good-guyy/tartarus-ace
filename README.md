@@ -3,11 +3,11 @@
 
 Ngôn ngữ sử dụng
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*Javascript
+* Javascript
 
 Link demo:
 https://main--delightful-bombolone-c5cfe9.netlify.app/
